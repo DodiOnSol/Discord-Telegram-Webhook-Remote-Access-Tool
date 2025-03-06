@@ -17,7 +17,7 @@ document.getElementById('github-link').addEventListener('click', () => {
 });
 
 // ## TELEGRAM BUTTON ## //
-const discordLink = 'https://discord.gg/doenerium';
+const discordLink = 'https://discord.gg/penguservices';
 document.getElementById('discord-link').addEventListener('click', () => {
     shell.openExternal(discordLink);
 });
