@@ -215,15 +215,15 @@ body {
     top: 0;
     width: 25px;
     height: 25px;
-    border: 2px solid #fff200;
+    border: 2px solid #0077ff;
     border-radius: 4px;
     background-color: transparent;
     transition: background-color 0.2s, border-color 0.2s;
 }
 
 .checkbox-item input[type="checkbox"]:checked + label::before {
-    background-color: #fff200;
-    border-color: #fff200;
+    background-color: #0077ff;
+    border-color: #0077ff;
 }
 
 .checkbox-item label::after {
