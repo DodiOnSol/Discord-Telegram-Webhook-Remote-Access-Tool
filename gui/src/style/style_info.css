@@ -239,7 +239,7 @@ input[type="text"]:disabled::placeholder {
     position: absolute;
     right: 15px;
     top: 11px;
-    background-color: #fff200;
+    background-color: #002fff;
     color: black;
     border: none;
     border-radius: 5px;
@@ -254,5 +254,5 @@ input[type="text"]:disabled::placeholder {
 }
 
 .help-button:hover {
-    background-color: #fff200;
+    background-color: #002fff;
 }

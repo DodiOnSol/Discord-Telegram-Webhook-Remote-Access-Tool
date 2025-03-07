@@ -197,14 +197,14 @@ body {
 }
 
 .help-button:hover {
-    background-color: #fff200;
+    background-color: #002fff;
 }
 
 .new-button {
     position: absolute;
     right: 15px;
     top: 50px;
-    background-color: #fff200;
+    background-color: #002fff;
     color: black;
     border: none;
     border-radius: 5px;
@@ -219,5 +219,5 @@ body {
 }
 
 .new-button:hover {
-    background-color: #fff200;
+    background-color: #002fff;
 }
