@@ -18,10 +18,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Function to send a test message to a Discord webhook
     async function sendTestEmbed(webhookURL) {
         const testEmbed = {
-            title: '**Your Webhook Works Perfectly ✅**',
+            title: '**Webhook Connected to Server',
             author: {
-                name: 'Pengu Services',
-                icon_url: 'https://cdn.discordapp.com/attachments/1347087633016426549/1347088689947218001/676156d5d900c65d8f9f015b_pengu_Preview_Image_Updated_1.png?ex=67ca8d9b&is=67c93c1b&hm=7eb486aceb929117e407e5b3a1fa85290a085e4f985c0519e0f1b74ab7d86c06&'
+                name: 'Altwarfare | Made by pengu012',
+                icon_url: 'https://cdn.discordapp.com/attachments/1251874900579450982/1348074104271405076/Capture2_1_-removebg-preview.png?ex=67cf74d8&is=67ce2358&hm=d1250bf5294d114888a245196b09971083917556a56f20b5d322922215f8bcdf&'
             },
             color: 0x303037,
             footer: {
@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const apiUrl = `https://api.telegram.org/bot${botToken}/sendMessage`;
         const testMessage = {
             chat_id: chatId,
-            text: '**Your Bot Works Perfectly ✅**',
+            text: '**Channel Connected to ✅**',
             parse_mode: 'Markdown',
         };
 
